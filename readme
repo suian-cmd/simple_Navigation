@@ -1,0 +1,10 @@
+项目启动：
+1、npm install -g http-server
+2、http-server -c-1
+
+应用到的知识
+jQuery
+LocalStorage
+SVG Symbols
+媒体查询
+git $ GitHub
